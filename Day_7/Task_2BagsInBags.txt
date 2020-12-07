@@ -1,0 +1,117 @@
+shiny gold bags contain 1 muted olive bag, 5 dotted red bags, 1 drab plum bag.
+    1) muted olive bags contain 4 clear blue bags, 1 posh lavender bag, 1 posh brown bag, 2 striped chartreuse bags.
+        4) clear blue bags contain no other bags.
+        1) posh lavender bags contain 3 bright red bags, 2 shiny lime bags, 2 bright chartreuse bags.
+            3) bright red bags contain no other bags.
+            2) shiny lime bags contain no other bags.
+            2) bright chartreuse bags contain no other bags.
+        1) posh brown bags contain 3 dull cyan bags.
+            3) dull cyan bags contain no other bags.
+        2) striped chartreuse bags contain 4 posh black bags, 1 vibrant cyan bag, 2 bright chartreuse bags.
+            4) posh black bags contain no other bags.
+            1) vibrant cyan bags contain no other bags.
+            2) bright chartreuse bags contain no other bags.
+    5) dotted red bags contain 5 muted olive bags, 1 posh lavender bag, 2 faded maroon bags, 3 bright tomato bags.
+        5) muted olive bags contain 4 clear blue bags, 1 posh lavender bag, 1 posh brown bag, 2 striped chartreuse bags.
+            4) clear blue bags contain no other bags.
+            1) posh lavender bags contain 3 bright red bags, 2 shiny lime bags, 2 bright chartreuse bags.
+                3) bright red bags contain no other bags.
+                2) shiny lime bags contain no other bags.
+                2) bright chartreuse bags contain no other bags.
+            1) posh brown bags contain 3 dull cyan bags.
+                3) dull cyan bags contain no other bags.
+            2) striped chartreuse bags contain 4 posh black bags, 1 vibrant cyan bag, 2 bright chartreuse bags.
+                4) posh black bags contain no other bags.
+                1) vibrant cyan bags contain no other bags.
+                2) bright chartreuse bags contain no other bags.
+        1) posh lavender bags contain 3 bright red bags, 2 shiny lime bags, 2 bright chartreuse bags.
+            3) bright red bags contain no other bags.
+            2) shiny lime bags contain no other bags.
+            2) bright chartreuse bags contain no other bags.
+        2) faded maroon bags contain 5 dull lime bags, 1 plaid black bag, 5 drab beige bags, 5 clear gray bags.
+            5) dull lime bags contain 2 dotted violet bags, 3 vibrant cyan bags.
+                2) dotted violet bags contain 4 light silver bags.
+                    4) light silver bags contain no other bags.
+                3) vibrant cyan bags contain no other bags.
+            1) plaid black bags contain 5 dark green bags, 4 bright fuchsia bags, 2 shiny lime bags.
+                5) dark green bags contain 1 posh black bag, 3 striped fuchsia bags.
+                    1) posh black bags contain no other bags.
+                    3) striped fuchsia bags contain 4 posh lavender bags, 5 dull cyan bags, 2 posh black bags, 2 vibrant bronze bags.
+                        4) posh lavender bags contain 3 bright red bags, 2 shiny lime bags, 2 bright chartreuse bags.
+                            3) bright red bags contain no other bags.
+                            2) shiny lime bags contain no other bags.
+                            2) bright chartreuse bags contain no other bags.
+                        5) dull cyan bags contain no other bags.
+                        2) posh black bags contain no other bags.
+                        2) vibrant bronze bags contain 5 clear blue bags.
+                            5) clear blue bags contain no other bags.
+                4) bright fuchsia bags contain 3 shiny chartreuse bags, 5 vibrant bronze bags.
+                    3) shiny chartreuse bags contain 5 posh black bags, 1 clear blue bag.
+                        5) posh black bags contain no other bags.
+                        1) clear blue bags contain no other bags.
+                    5) vibrant bronze bags contain 5 clear blue bags.
+                        5) clear blue bags contain no other bags.
+                2) shiny lime bags contain no other bags.
+            5) drab beige bags contain 2 dark green bags, 2 bright maroon bags.
+                2) dark green bags contain 1 posh black bag, 3 striped fuchsia bags.
+                    1) posh black bags contain no other bags.
+                    3) striped fuchsia bags contain 4 posh lavender bags, 5 dull cyan bags, 2 posh black bags, 2 vibrant bronze bags.
+                        4) posh lavender bags contain 3 bright red bags, 2 shiny lime bags, 2 bright chartreuse bags.
+                            3) bright red bags contain no other bags.
+                            2) shiny lime bags contain no other bags.
+                            2) bright chartreuse bags contain no other bags.
+                        5) dull cyan bags contain no other bags.
+                        2) posh black bags contain no other bags.
+                        2) vibrant bronze bags contain 5 clear blue bags.
+                            5) clear blue bags contain no other bags.
+                2) bright maroon bags contain no other bags.
+            5) clear gray bags contain 1 bright red bag, 2 dull cyan bags, 3 bright maroon bags, 3 muted gold bags.
+                1) bright red bags contain no other bags.
+                2) dull cyan bags contain no other bags.
+                3) bright maroon bags contain no other bags.
+                3) muted gold bags contain no other bags.
+        3) bright tomato bags contain 3 bright maroon bags, 3 clear blue bags, 5 posh lavender bags, 5 shiny lime bags.
+            3) bright maroon bags contain no other bags.
+            3) clear blue bags contain no other bags.
+            5) posh lavender bags contain 3 bright red bags, 2 shiny lime bags, 2 bright chartreuse bags.
+                3) bright red bags contain no other bags.
+                2) shiny lime bags contain no other bags.
+                2) bright chartreuse bags contain no other bags.
+            5) shiny lime bags contain no other bags.
+    1) drab plum bags contain 5 vibrant bronze bags, 1 muted olive bag, 1 striped tan bag.
+        5) vibrant bronze bags contain 5 clear blue bags.
+            5) clear blue bags contain no other bags.
+        1) muted olive bags contain 4 clear blue bags, 1 posh lavender bag, 1 posh brown bag, 2 striped chartreuse bags. 
+            4) clear blue bags contain no other bags.
+            1) posh lavender bags contain 3 bright red bags, 2 shiny lime bags, 2 bright chartreuse bags.
+                3) bright red bags contain no other bags.
+                2) shiny lime bags contain no other bags.
+                2) bright chartreuse bags contain no other bags.
+            1) posh brown bags contain 3 dull cyan bags.
+                3) dull cyan bags contain no other bags.
+            2) striped chartreuse bags contain 4 posh black bags, 1 vibrant cyan bag, 2 bright chartreuse bags.
+                4) posh black bags contain no other bags.
+                1) vibrant cyan bags contain no other bags.
+                2) bright chartreuse bags contain no other bags.
+        1) striped tan bags contain 5 mirrored olive bags, 4 dark maroon bags.
+            5) mirrored olive bags contain 4 dull cyan bags, 4 posh black bags, 2 striped chartreuse bags.
+                4) dull cyan bags contain no other bags.
+                4) posh black bags contain no other bags.
+                2) striped chartreuse bags contain 4 posh black bags, 1 vibrant cyan bag, 2 bright chartreuse bags.
+                    4) posh black bags contain no other bags.
+                    1) vibrant cyan bags contain no other bags.
+                    2) bright chartreuse bags contain no other bags.
+            4) dark maroon bags contain 2 bright tomato bags, 2 striped chartreuse bags, 5 bright maroon bags.
+                2) bright tomato bags contain 3 bright maroon bags, 3 clear blue bags, 5 posh lavender bags, 5 shiny lime bags.
+                    3) bright maroon bags contain no other bags.
+                    3) clear blue bags contain no other bags.
+                    5) posh lavender bags contain 3 bright red bags, 2 shiny lime bags, 2 bright chartreuse bags.
+                        3) bright red bags contain no other bags.
+                        2) shiny lime bags contain no other bags.
+                        2) bright chartreuse bags contain no other bags.
+                    5) shiny lime bags contain no other bags.
+                2) striped chartreuse bags contain 4 posh black bags, 1 vibrant cyan bag, 2 bright chartreuse bags.
+                    4) posh black bags contain no other bags.
+                    1) vibrant cyan bags contain no other bags.
+                    2) bright chartreuse bags contain no other bags.
+                5) bright maroon bags contain no other bags.
